@@ -1,1 +1,6 @@
 *.csv
+.DS_Store
+.ipynb_checkpoints/time_series_proj-checkpoint.ipynb
+.ipynb_checkpoints/acquire_exercise-checkpoint.ipynb
+.ipynb_checkpoints/prepare-checkpoint.ipynb
+__pycache__/
