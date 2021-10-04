@@ -13,7 +13,7 @@ def new_items():
     n = data['payload']['max_page']
 
     for i in range(1,n+1):
-        url = 'https://python.zach.lol/api/v1/items?page='+str(i)
+        url = 'https://python.zgulde.net/api/v1/items?page='+str(i)
         response = requests.get(url)
         data = response.json()
         page_items = data['payload']['items']
