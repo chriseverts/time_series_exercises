@@ -4,3 +4,4 @@
 .ipynb_checkpoints/acquire_exercise-checkpoint.ipynb
 .ipynb_checkpoints/prepare-checkpoint.ipynb
 __pycache__/
+env.py
